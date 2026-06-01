@@ -1,0 +1,16 @@
+# Core RL stack
+gymnasium[classic-control]>=1.0.0
+stable-baselines3>=2.4.0
+torch>=2.4.0
+
+# Scientific Python
+numpy>=1.26
+matplotlib>=3.8
+pandas>=2.2
+tqdm>=4.66
+rich>=13.0
+pyyaml>=6.0
+
+# Notebook
+jupyter
+ipykernel
